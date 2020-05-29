@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_Kosarlabdaliga\SchuhS_Kosarlabdaliga\bin\Debug\SchuhS_Kosarlabdaliga.exe.config
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_Kosarlabdaliga\SchuhS_Kosarlabdaliga\bin\Debug\SchuhS_Kosarlabdaliga.exe
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_Kosarlabdaliga\SchuhS_Kosarlabdaliga\bin\Debug\SchuhS_Kosarlabdaliga.pdb
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_Kosarlabdaliga\SchuhS_Kosarlabdaliga\obj\Debug\SchuhS_Kosarlabdaliga.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_Kosarlabdaliga\SchuhS_Kosarlabdaliga\obj\Debug\SchuhS_Kosarlabdaliga.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_Kosarlabdaliga\SchuhS_Kosarlabdaliga\obj\Debug\SchuhS_Kosarlabdaliga.exe
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_Kosarlabdaliga\SchuhS_Kosarlabdaliga\obj\Debug\SchuhS_Kosarlabdaliga.pdb
